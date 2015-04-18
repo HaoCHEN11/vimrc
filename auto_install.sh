@@ -1,5 +1,5 @@
 #!/bin/sh
-INSTALL_TO=~/Projects
+INSTALL_TO=~
 
 warn() {
     echo "$1" >&2
@@ -16,7 +16,7 @@ install_vimrc () {
     [ -e "~/.vimrc" ] && die "~/.vimrc already exists."
 
     cd "$INSTALL_TO"
-    git clone git://github.com/nvie/vimrc.git
+    #git clone git://github.com/nvie/vimrc.git
     cd vimrc
 
     # Download vim plugin bundles
