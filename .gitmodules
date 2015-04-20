@@ -1,9 +1,9 @@
-[submodule "vim/bundles/snipmate_for_django"]
-	path = vim/bundles/snipmate_for_django
-	url = git://github.com/robhudson/snipmate_for_django.git
-[submodule "vim/bundle/snipmate_for_django"]
-	path = vim/bundle/snipmate_for_django
-	url = git://github.com/robhudson/snipmate_for_django.git
+; [submodule "vim/bundles/snipmate_for_django"]
+; 	path = vim/bundles/snipmate_for_django
+; 	url = git://github.com/robhudson/snipmate_for_django.git
+; [submodule "vim/bundle/snipmate_for_django"]
+; 	path = vim/bundle/snipmate_for_django
+; 	url = git://github.com/robhudson/snipmate_for_django.git
 [submodule "vim/bundle/fugitive"]
 	path = vim/bundle/fugitive
 	url = git://github.com/tpope/vim-fugitive.git
@@ -40,24 +40,24 @@
 [submodule "vim/bundle/python-mode"]
 	path = vim/bundle/python-mode
 	url = https://github.com/klen/python-mode.git
-[submodule "vim/bundle/gist-vim"]
-	path = vim/bundle/gist-vim
-	url = git://github.com/mattn/gist-vim.git
-[submodule "webapi-vim"]
-	path = webapi-vim
-	url = git://github.com/mattn/webapi-vim.git
-[submodule "vim/bundle/fish"]
-	path = vim/bundle/fish
-	url = git://github.com/vim-scripts/fish.vim.git
-[submodule "vim/bundle/ctrlp.vim"]
-	path = vim/bundle/ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim.git
-[submodule "vim/bundle/emmet"]
-	path = vim/bundle/emmet
-	url = https://github.com/mattn/emmet-vim
-[submodule "vim/bundle/vim-eunuch"]
-	path = vim/bundle/vim-eunuch
-	url = https://github.com/tpope/vim-eunuch
+; [submodule "vim/bundle/gist-vim"]
+; 	path = vim/bundle/gist-vim
+; 	url = git://github.com/mattn/gist-vim.git
+; [submodule "webapi-vim"]
+; 	path = webapi-vim
+; 	url = git://github.com/mattn/webapi-vim.git
+; [submodule "vim/bundle/fish"]
+; 	path = vim/bundle/fish
+; 	url = git://github.com/vim-scripts/fish.vim.git
+ [submodule "vim/bundle/ctrlp.vim"]
+ 	path = vim/bundle/ctrlp.vim
+ 	url = https://github.com/kien/ctrlp.vim.git
+; [submodule "vim/bundle/emmet"]
+; 	path = vim/bundle/emmet
+; 	url = https://github.com/mattn/emmet-vim
+; [submodule "vim/bundle/vim-eunuch"]
+; 	path = vim/bundle/vim-eunuch
+; 	url = https://github.com/tpope/vim-eunuch
 [submodule "vim/bundle/vim-git"]
 	path = vim/bundle/vim-git
 	url = https://github.com/tpope/vim-git
@@ -103,15 +103,15 @@
 [submodule "vim/bundle/vim-pyunit"]
 	path = vim/bundle/vim-pyunit
 	url = https://github.com/nvie/vim-pyunit.git
-[submodule "vim/bundle/vim-isort"]
-	path = vim/bundle/vim-isort
-	url = https://github.com/fisadev/vim-isort
-[submodule "vim/bundle/rust.vim"]
-	path = vim/bundle/rust.vim
-	url = https://github.com/wting/rust.vim
-[submodule "vim/bundle/vim-flake8"]
-	path = vim/bundle/vim-flake8
-	url = https://github.com/nvie/vim-flake8
+; [submodule "vim/bundle/vim-isort"]
+; 	path = vim/bundle/vim-isort
+; 	url = https://github.com/fisadev/vim-isort
+; [submodule "vim/bundle/rust.vim"]
+; 	path = vim/bundle/rust.vim
+; 	url = https://github.com/wting/rust.vim
+; [submodule "vim/bundle/vim-flake8"]
+; 	path = vim/bundle/vim-flake8
+; 	url = https://github.com/nvie/vim-flake8
 [submodule "vim/bundle/splitjoin.vim"]
 	path = vim/bundle/splitjoin.vim
 	url = https://github.com/AndrewRadev/splitjoin.vim
